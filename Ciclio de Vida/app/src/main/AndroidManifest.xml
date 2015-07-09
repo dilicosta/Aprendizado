@@ -7,6 +7,7 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
+
         <activity
             android:name="br.com.diego.login.MainActivity"
             android:label="@string/title_main_activity" >
@@ -16,7 +17,9 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="br.com.diego.login.BemVindoActivity" android:label="@string/title_bem_vindo_activity" android:parentActivityName="br.com.diego.login.MainActivity" >
+        <activity android:name="br.com.diego.login.BemVindoActivity"
+            android:label="@string/title_bem_vindo_activity"
+            android:parentActivityName="br.com.diego.login.MainActivity" >
             <!-- Parent activity meta-data to support API level 7+ -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

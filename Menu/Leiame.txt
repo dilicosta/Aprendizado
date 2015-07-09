@@ -1,0 +1,5 @@
+Características do Aplicativo:
+
+- Incluir um ActionBar (menu superior)
+- Incluir botões e menu overflow (menu escondido)
+- Tratar os eventos do menu
