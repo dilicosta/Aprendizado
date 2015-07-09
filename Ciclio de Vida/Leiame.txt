@@ -1,0 +1,8 @@
+Características do Aplicativo 
+- Simula um Login de usuário
+- Realiza a chama de uma tela para outra com passagem de parâmetros
+- Registra o ciclo de vida das actions no log do 
+LogCat com a TAL LOGIN.
+- Mostra o funcionamento da "up navigagtion", seta para esquerda que
+indica a navegação para cima na hierarquia de telas
+
