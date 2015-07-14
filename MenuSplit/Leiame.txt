@@ -1,8 +1,8 @@
 Características do Aplicativo:
 
-- Incluir um ActionBar (menu superior)
-- Incluir botões e menu overflow (menu escondido)
-- Tratar os eventos do menu
+- Inclui um Action Bar com SPLIT, se as opções do menu
+  não couberem na barra, ela será dividida. A outra barra
+  será exibida na parte inferior.
 
--Incluir uma ActionView para tratar o botão de pesquisa
--Incluir uma ActionProvider para tratar o botão de compartilhamento
+- Altera dinamicamente o título na barra de menu, 
+  que por default é o nome do aplicativo.

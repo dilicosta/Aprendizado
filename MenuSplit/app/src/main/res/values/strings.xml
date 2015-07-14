@@ -6,4 +6,5 @@
     <string name="action_search">Pesquisar</string>
     <string name="action_refresh">Atualizar</string>
     <string name="action_share">Compartilhar</string>
+    <string name="action_import">Importante</string>
 </resources>
