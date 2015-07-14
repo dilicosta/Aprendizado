@@ -1,0 +1,8 @@
+Características do Aplicativo:
+
+- Incluir um ActionBar (menu superior)
+- Incluir botões e menu overflow (menu escondido)
+- Tratar os eventos do menu
+
+-Incluir uma ActionView para tratar o botão de pesquisa
+-Incluir uma ActionProvider para tratar o botão de compartilhamento
