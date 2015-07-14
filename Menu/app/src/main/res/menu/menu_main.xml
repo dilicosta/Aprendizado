@@ -18,7 +18,7 @@
     <!-- ifRoom-> exibir o menu se tiver espaco, senao sera exibido no menu oculto-->
     <item
         android:id="@+id/action_settings"
-        android:icon="@drawable/ic_action_setting"
+        android:icon="@drawable/ic_action_settings"
         android:title="@string/action_settings"
         android:showAsAction="ifRoom"/>
 </menu>
